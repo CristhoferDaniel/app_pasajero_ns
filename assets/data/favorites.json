@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Tao Restobar",
+    "rating": 4.5,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1609252871434-4e282b868d9a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "logo_img":"https://i.pinimg.com/originals/e6/59/1d/e6591da0f4819c52a684d4f2593462b2.png"
+  },
+  {
+    "name": "Chifa Canton",
+    "rating": 2.3,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1613472443676-6737a7c4246e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1252&q=80",
+    "logo_img":"https://i.pinimg.com/originals/66/f9/70/66f970bda935c2a7ee8d87234c40bbd7.jpg"
+  },
+  {
+    "name": "Don Parce Restaurant",
+    "rating": 5.6,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1511892568825-26ab5fd3adde?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+    "logo_img":"https://i.pinimg.com/originals/33/aa/9b/33aa9bbf9ef5fee9e3f3184d20722db8.png"
+  },
+  {
+    "name": "La Cabana de Wilo",
+    "rating": 4.4,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+    "logo_img":"https://images.vexels.com/media/users/3/74325/preview2/07583691c38032ae4dc1e6cf9c3c99c3-logotipo-creativo-tipografico-de-comida-rapida.jpg"
+  },
+  {
+    "name": "Don Belisario",
+    "rating": 3.2,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "logo_img":"https://us.123rf.com/450wm/butenkow/butenkow1612/butenkow161202865/67426495-vector-logo-hamburguesa-para-restaurante-de-men%C3%BA-o-cafeter%C3%ADa.jpg?ver=6"
+  },
+  {
+    "name": "Chifa Canton",
+    "rating": 3.2,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1613472443676-6737a7c4246e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1252&q=80",
+    "logo_img":"https://image.freepik.com/vector-gratis/cocina-restaurante-logo-design-vector-retro_7888-179.jpg"
+  },
+  {
+    "name": "Don Parce Restaurant",
+    "rating": 3.2,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1511892568825-26ab5fd3adde?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+    "logo_img":"https://i.pinimg.com/originals/49/3d/ea/493deac1d53ebd5a4d7f9ba5ad1a157c.jpg"
+  },
+  {
+    "name": "La Cabana de Wilo",
+    "rating": 3.2,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+    "logo_img":"https://s3.amazonaws.com/thumbnails.venngage.com/template/50856174-6975-471b-b1b0-20fbd6e76781.png"
+  },
+  {
+    "name": "Don Belisario",
+    "rating": 4.5,
+    "description": "Av. San Ramón s/n Interior 9 y 10. El Molino, Frente al Colegio Santa María, Piura 51 Perú",
+    "portada_img": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "logo_img":"http://newboxdiseno.com/logotipos/predisenados/wp-content/uploads/2017/10/Mexicano-Logotipos-768x879.jpg"
+  }
+]
